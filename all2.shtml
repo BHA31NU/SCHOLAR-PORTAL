@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <section class="text-gray-600 body-font">
+            <div class="container px-5 py-24 mx-auto">
+              <div class="flex flex-wrap -m-4">
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://scholarshipowl.com/">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://scholarships360.org/wp-content/uploads/2016/08/scholarship-owl-1.jpg">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">OWL SCHOLARSHIP</h2>
+                    <p class="mt-1">The main goal of Scholarship Owl is to simplify the scholarship application process. Users enter information about their age, grade level, and the field of study they’re interested in. The site searches all available scholarships for community college, undergraduate, and graduate school.</p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Resident students should of any 50 United States<br>District of Columbia<br>US Territories
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://www.academyart.edu/">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://crown.edu.mm/wp-content/uploads/2021/07/unnamed-1.jpg">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">ACADEMY OF ART UNIVERSITY</h2>
+                    <p class="mt-1">
+                        The purpose of the scholarship is to encourage and inspire transitioning servicemembers to become future artists and designers. Program provides a tuition scholarship for a maximum of: Up to two undergraduate or graduate courses (3-6 units) per semester $2,373 per undergraduate class per semester, for a maximum amount of $4,746 per semester
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Under Graduate Students must have 2.0 or 4.0 CGPA in 12 grade<br> Applicant Bachelors Degree with 2.0 GPA or min C Grade
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://www.nitrocollege.com/nitro-scholarship-application">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://www.tun.com/blog/wp-content/uploads/2016/08/Nitro-Student-Scholarship-1.png">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">NITRO</h2>
+                    <p class="mt-1">
+                        The reason for the Nitro Scholarship program is to give students who are taking their classes online for academic honors, scholarships. If you are enrolled in an accredited school and pursuing your high school education through the internet, Nitro offers the opportunity to receive a $2,000 scholarship every month.
+
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : 80% Marks in +2 Exam 
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://bold.org/scholarships/the-be-bold-no-essay-scholarship/">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="data:image/png;base64,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">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">BE BOLD</h2>
+                    <p class="mt-1">
+                        The “Be Bold” Scholarship is a no-essay scholarship that will be awarded to the applicant with the boldest profile. The scholarship is aimed at helping the ones who know that a mountain is climbed one step at a time.
+                    </p>
+                    <p class="mt-1">ELIGIBILITY CRITERIA : Under Graduate,MBBS and above</p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://www.niche.com/colleges/scholarships/?niche=niche-scholarships
+                  ">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/pb4ilvs7yaumsicmgdtn">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">NICHE</h2>
+                    <p class="mt-1">
+                        The scholarship can be used to cover tuition, housing, books, or any education-related expenses. The monthly winner will be determined by random drawing and then contacted directly and announced in Niche's e-newsletter and on the Scholarship Winners page. You can apply once each month, with a new winner selected every month.
+                    </p>
+                    <p class="mt-1">ELIGIBILITY CRITERIA : No requirement <br> Students at any Education level,scholl,field,of study,and GPA eligible to apply </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="adityabirlascholars.net/index.aspx">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/thm4bskc9khrjxuy6chm">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">ADITYA BIRLA</h2>
+                    <p class="mt-1">
+                        Aditya Birla Scholarships are awarded every year to meritorious students from the top colleges of India like IITs and IIMs with the sole purpose of motivating them to continue their academic and extra-academic excellence and emerge as pioneering leaders in various sectors.
+                    </p>
+                    <p class="mt-1">ELIGIBILITY CRITERIA : Candiates pursuing PG courses from selected istitutions<br> llike IIM IIT can apply </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="www.faeaindia.org/Registration2020/default.aspx
+                  ">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://career.webindia123.com/career/options/images/faea.jpg">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">FAEA</h2>
+                    <p class="mt-1">
+                        Student Information The objective of Scholarship Program of FAEA is to secure social justice for students belonging to socially and economically disadvantaged sections of the society.
+                    </p>
+                    <p class="mt-1">ELIGIBILITY CRITERIA : Shuld Be an Indian, permanent resident of India <br> Should have passed class12 exam</p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://regtechtimes.com/wp-content/uploads/2019/06/hdfc.jpg">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">HDFC</h2>
+                    <p class="mt-1">
+                        The HDFC Scholarship is a specific scholarship program offered by HDFC Bank to support meritorious and needy students from disadvantaged sections of society. Under HDFC Scholarship 2022, financial assistance up to INR 75,000 is provided to the students from class 6 doing UG and PG courses.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : currently studying 6-12 must secure atleast 55% marks income must be less than 2.5LPA
+                    </p>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="text-gray-600 body-font">
+            <div class="container px-5 py-24 mx-auto">
+              <div class="flex flex-wrap -m-4">
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://www.thegatesscholarship.org/scholarship
+                  ">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="data:image/png;base64,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">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">THE GATES</h2>
+                    <p class="mt-1">
+                        The Gates Scholarship is awarded by the Bill and Melinda Gates Foundation, whose mission is to “ensure more children and young people survive and thrive.” The foundation seeks to eradicate poverty through access to high-quality healthcare and education.
+
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Pell-Eligible must have CGPA 3.3
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="www.online-inspire.gov.in">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://pbs.twimg.com/profile_images/976892839320739840/nKTIbhWW_400x400.jpg">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">INSPIRE</h2>
+                    <p class="mt-1">
+                        The INSPIRE Scholarship is an distinct step taken by the Government of India in order to discover brilliant young minds and train them to be the building block of a more scientific and productive community.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Aggregate marks with in 1% must be pursuing BSE,BS,MSC,MS
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://www.aicte-india.org/.../PG-Scholarship-Scheme">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeS0sI9HnYOaLWyLyLgF3T8OqGdjbnvijCMq9Q6OQtkZZT7UK1VEvdTlMwbL6NTo2YY0k&usqp=CAU">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">AICTE FOR GIRLS</h2>
+                    <p class="mt-1">
+                        Of course, every scholarship offers some sort of financial aid to the students either in the form of cash rewards or fee waiver. With AICTE scholarship, the scholarship amount is generally in the form of monetary assistance. The amount may vary depending on the scholarship you have applied for.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Must be 1st or 2nd year of diploma or degree at AICTE INstitute<br>Income < 8LPA
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://new.siemens.com/.../siemens-scholarship-program.html">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbYDVtDdGmhJaXGyENIcyQcPg4vA84BwdGrFbCIyrDhDDvBAcfJ07UZT15OTiUdIvxEc&usqp=CAU">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">SIEMENS SCHOLARHSIP</h2>
+                    <p class="mt-1">
+                        The Siemens scholarship programme is part of the organisation's corporate citizenship initiative. It aims to uplift the students from economically weaker sections to have a successful future. The tentative last date to apply for the Siemens scholarship is January 10th, 2022.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Low income ,3.5+ GPA ,must attend 4 years of graduation 
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="www.kvpy.iisc.ernet.in
+                  ">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://www.educationnews.shiksha/wp-content/uploads/2022/02/KVPY.png">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">KVPY SCHOLARSHIP</h2>
+                    <p class="mt-1">
+                        The aim of this scholarship program is to identify and encourage talented students to ensure that the best scientific talent is groomed for research and development in the country. Generous fellowship and contingency grants are provided to the selected KVPY Fellows up to the pre-Ph.D. level or 5 years whichever is earlier.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Must obtain 60% for oc ,50% for SC,ST,PWD in class 12
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://www.abbreviations.com/images/2615109_PMSS.png">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">PMSS SCHOLARSHIP</h2>
+                    <p class="mt-1">
+                        The ‘Prime Minister’s Scholarship Scheme (PMSS)’ ’ is being implemented to encourage technical and post-graduate education for the widows and wards of the deceased/ex-service personnel of Armed Forces. The scheme is funded out of National Defence Fund administered by Prime Minister’s Office.
+                    </p>
+                   <p class="mt-1">
+                    ELIGIBILITY CRITERIA : should have secured 60% marks in MEQ and should be Qualified for NEET,JEE,CLAT
+                   </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://kalakrithi.com
+                  ">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQX6VOUmhLNoWwhqtqW7ZqzlHjJjwTZ8DHpdxrFwbK7yIGTDKgyUza5b_IBsIk30mGKUs&usqp=CAU">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">kALAKRITHI</h2>
+                    <p class="mt-1">
+                        Kalakriti Foundationwas formed in 1999 with the aim to promote art & culture and creating awareness for many other issues for societal development especially amongst the youth & children through various forms of “Visual and Performing Art”, founded by Prashant K. Sarkar & Kirti B. Sarkar, ex-students of College of Art, New Delhi, India.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : should be an Indian <br> Age b/w 25-40 <br> Trained in Indian Classical Dance
+                    </p>
+                  </div>
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+                  <a class="block relative h-48 rounded overflow-hidden" href="https://ncert.app/ugam-scholarship/index.html">
+                    <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="data:image/jpeg;base64,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">
+                  </a>
+                  <div class="mt-4">
+                    <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Scholarship Program</h3>
+                    <h2 class="text-gray-900 title-font text-lg font-medium">UGAM SCHOLARSHIP</h2>
+                    <p class="mt-1">
+                        UGAM Scholarship 2019-2020: UGAM Scholarship Also known as the UGAM Legrand Scholarship France, the program is primarily meant to aid talented and aspiring students to pursue Post Graduation courses at one of the higher educational institutions in France. ugam Legrand scholarship program 2020 last date is July 25, 2020.
+                    </p>
+                    <p class="mt-1">
+                        ELIGIBILITY CRITERIA : Students with annual income < 10LPA <br> Children of Armed Forces
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          </body>
+          </html>
